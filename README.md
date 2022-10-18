@@ -1,1 +1,1 @@
-echo "# tcet_cse-branch"
+# tcet_cse-branch
